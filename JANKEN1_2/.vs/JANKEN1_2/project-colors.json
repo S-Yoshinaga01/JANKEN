@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0bf5b76-c281-41c5-832b-a9e41f39f2f9": {
+      "ProjectGuid": "d0bf5b76-c281-41c5-832b-a9e41f39f2f9",
+      "DisplayName": "JANKEN1_2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
